@@ -24,7 +24,7 @@ Podemos ver nuestra ubicacion de forma grafica.
 ## 🌐 Ver ejemplo en vivo
 
 🌐 Pulsa el link para ver la pagina Web. 
- https://yocere.github.io/Pagina-UAJMS/
+ https://yocere.github.io/API_Geolocalizacion/
 
 ## 📧 Contacto
 
